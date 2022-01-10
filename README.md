@@ -4,7 +4,8 @@
 
 ## Instalação:
 
-Basta clicar duas vezes no arquivo ``` setup.exe ``` 
+- Baixe ``` setup.exe ``` e ```Instalador-Snake-SO.msi```
+- Clique duas vezes no arquivo ``` setup.exe ``` 
 
 ## <img src="snake.png" width="350">
 
